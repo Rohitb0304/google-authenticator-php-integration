@@ -63,7 +63,7 @@ Composer is a dependency manager for PHP. To install Composer, follow these step
 Clone the project repository from GitHub and navigate into the project directory.
 
 ```bash
-git clone https://github.com/yourusername/google-authenticator.git
+git clone https://github.com/rohitb0304/google-authenticator.git
 cd google-authenticator
 ```
 
